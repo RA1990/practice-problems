@@ -1,5 +1,5 @@
 function sumArray() {
-  var num = 0;
+  var num = 12;
 }
 
 function fitWithinVal() {}
