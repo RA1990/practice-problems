@@ -1,5 +1,5 @@
 # Practice Problems
-A repo containing some fun coding challenges. They are in no particular order.
+A repo containing some fun coding challenges. The are in no particular order.
 
 ## Bigger words
 
